@@ -15,6 +15,6 @@
     <ul>
       <li>reason->The process of the app is to open the data file of google chrome (for exmaple) and read it's history,<br>So to do this, chrome has to be shutdown completely</li>
     </ul>
-    <li>Press the Add button and wait for 2-3 seconds, after that all website domains you have visited will appea on the app window</li>
+    <li>Press the Add button and wait for 2-3 seconds, after that all website domains you have visited will appear on the app window</li>
     <p align="center"><img src="./images/hyperLink.jpg" alt="app_window" width="600px" height="400px"></p>
   </ul>
